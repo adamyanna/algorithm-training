@@ -55,3 +55,7 @@ class Solution(object):
         
 # @lc code=end
 
+"""
+类似题目：转化为全零矩阵的最少反转次数
+https://github.com/adamyanna/StayCompetitiveAlgorithm/tree/main/roadmap/7_bitwise
+"""

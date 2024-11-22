@@ -102,3 +102,6 @@ class Trie(object):
 # param_3 = obj.startsWith(prefix)
 # @lc code=end
 
+"""
+https://github.com/adamyanna/StayCompetitiveAlgorithm/tree/main/roadmap/5_tree/tries
+"""

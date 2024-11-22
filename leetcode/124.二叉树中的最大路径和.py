@@ -42,3 +42,6 @@ class Solution(object):
         return self.max_sum
 # @lc code=end
 
+"""
+https://github.com/adamyanna/StayCompetitiveAlgorithm/tree/main/roadmap/5_tree
+"""

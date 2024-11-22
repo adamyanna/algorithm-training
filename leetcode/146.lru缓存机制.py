@@ -143,3 +143,6 @@ class LRUCache():
 # obj.put(key,value)
 # @lc code=end
 
+"""
+https://github.com/adamyanna/StayCompetitiveAlgorithm/tree/main/roadmap/1_array_hashing
+"""

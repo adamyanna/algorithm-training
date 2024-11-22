@@ -83,3 +83,6 @@ class MyQueue(object):
 # param_4 = obj.empty()
 # @lc code=end
 
+"""
+https://github.com/adamyanna/StayCompetitiveAlgorithm/tree/main/roadmap/2_stack
+"""
